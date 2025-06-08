@@ -1,0 +1,5 @@
+C:\Users\Ana_R\source\repos\2exe1\2exe1\obj\Debug\2exe1.csproj.AssemblyReference.cache
+C:\Users\Ana_R\source\repos\2exe1\2exe1\obj\Debug\_2exe1.Form1.resources
+C:\Users\Ana_R\source\repos\2exe1\2exe1\obj\Debug\_2exe1.Properties.Resources.resources
+C:\Users\Ana_R\source\repos\2exe1\2exe1\obj\Debug\2exe1.csproj.GenerateResource.cache
+C:\Users\Ana_R\source\repos\2exe1\2exe1\obj\Debug\2exe1.csproj.CoreCompileInputs.cache
