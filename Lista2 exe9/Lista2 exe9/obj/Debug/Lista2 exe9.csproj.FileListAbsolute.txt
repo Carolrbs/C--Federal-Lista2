@@ -1,0 +1,7 @@
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista2 exe9\Lista2 exe9\bin\Debug\Lista2 exe9.exe.config
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista2 exe9\Lista2 exe9\bin\Debug\Lista2 exe9.exe
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista2 exe9\Lista2 exe9\bin\Debug\Lista2 exe9.pdb
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista2 exe9\Lista2 exe9\obj\Debug\Lista2 exe9.csproj.AssemblyReference.cache
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista2 exe9\Lista2 exe9\obj\Debug\Lista2 exe9.csproj.CoreCompileInputs.cache
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista2 exe9\Lista2 exe9\obj\Debug\Lista2 exe9.exe
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista2 exe9\Lista2 exe9\obj\Debug\Lista2 exe9.pdb
